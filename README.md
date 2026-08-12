@@ -92,7 +92,7 @@ To build intelligent systems that solve real-world problems and create meaningfu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavi-singh06&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&rank_icon=github" width="49%" alt="GitHub Stats">
+<img src="https://github-stats-extended.vercel.app/api?username=pranavi-singh06&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&rank_icon=github" width="49%" alt="GitHub Stats">
 
 <img src="https://streak-stats.demolab.com/?user=pranavi-singh06&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=808080" width="49%" alt="GitHub Streak">
 
