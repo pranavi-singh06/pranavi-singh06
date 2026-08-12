@@ -62,7 +62,7 @@ To build intelligent systems that solve real-world problems and create meaningfu
 <br><br>
 
 <a href="https://github.com/pranavi-singh06">
-  <img src="https://img.shields.io/badge/GitHub-[pranavi--singh06]-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-pranavi--singh06-EF93C4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -163,7 +163,7 @@ jobs:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pranavi-singh-942990369/">
-  <img src="https://img.shields.io/badge/LinkedIn-[Pranavi%20Singh]-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Pranavi%20Singh-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:pranavi.singh17@gmail.com">
