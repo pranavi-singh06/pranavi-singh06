@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <picture>
@@ -187,4 +186,4 @@ jobs:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=120&section=footer&animation=fadeIn" width="100%">
 
 </p>
-```
+
